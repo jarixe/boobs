@@ -1,8 +1,1 @@
-{
-  "name": "BoobsPool",
-  "ticker": "BOOBS",
-  "description": "BoobsPool, working together to save the lives of thousands of women worldwide by raising money for breast cancer and research! | 0% fee and 20k pledge | For women by women",
-  "homepage": "https://boobspool.com",
-  "nonce": "1628892628",
-  "extended": "https://github.com/jarixe/boobs/blob/main/ext.json"
-}
+{"name":"BoobsPool","ticker":"BOOBS","description":"BoobsPool, working together to save the lives of thousands of women worldwide by raising money for breast cancer and research! | 0% fee and 20k pledge | For women by women","homepage":"https://boobspool.com","nonce":"1628892628","extended":"https://github.com/jarixe/boobs/blob/main/ext.json"}
